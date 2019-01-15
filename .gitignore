@@ -8,3 +8,5 @@ reports
 /influxdb
 /grafana_data
 DS_Store
+start.sh
+.idea/
